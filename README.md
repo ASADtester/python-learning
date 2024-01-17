@@ -1,2 +1,1 @@
-# python-learning
-python-lesson1
+print('asasd')
