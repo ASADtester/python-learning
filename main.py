@@ -1,1 +1,1 @@
-asfsss
+print('ASAD')
